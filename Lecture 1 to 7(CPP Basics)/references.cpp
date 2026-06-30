@@ -11,6 +11,6 @@ int main()
     b = 20;
 
     cout << a << " " << b << endl;
-
+    // when we change the value of b it also changes the value of a.
     return 0;
 }

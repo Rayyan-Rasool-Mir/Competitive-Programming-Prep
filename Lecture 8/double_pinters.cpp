@@ -10,6 +10,6 @@ int main()
     int** pp = &p;
 
     cout << a << endl;
-    cout << p << endl;
-    cout << pp << endl;
+    cout << *p << endl;
+    cout << **pp << endl;
 }

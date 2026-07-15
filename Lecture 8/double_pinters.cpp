@@ -5,11 +5,22 @@ int main()
 {
     int a = 10;
 
-    int* p = &a;
+    int *p = &a;
 
-    int** pp = &p;
+    int **pp = &p;
 
     cout << a << endl;
+    cout << &a << endl;
+
+    cout << p << endl;
+    cout << &p << endl;
+
+    cout << pp << endl;
+    cout << &pp << endl;
+
     cout << *p << endl;
+
+    cout << *pp << endl;
+
     cout << **pp << endl;
 }

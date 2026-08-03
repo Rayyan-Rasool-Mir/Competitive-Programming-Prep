@@ -23,5 +23,11 @@ int main()
     *ptr = 20;
 
     cout<< *ptr<<endl;
+
+
+    int arr[5] = {0,1,2,3,4};
+
+    cout<<arr+1<<endl;
+    cout<< &arr +1<<endl;
     return 0;
 }

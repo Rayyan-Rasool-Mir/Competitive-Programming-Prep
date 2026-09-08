@@ -21,17 +21,15 @@ A personal repository documenting my journey in Competitive Programming. This re
 ```text
 Competitive-Programming/
 │
-├── Codeforces
-│   ├── Contest
-│   ├── Practice
+├── Lectures
 │
 │
-├── LeetCode
+├── Live Contest Code
 │
-├── HackerEarth
+├── Revisit
 │
 │
-├── CSES
+├── Virtual Contest
 │
 │
 └── README.md
